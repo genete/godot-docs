@@ -601,7 +601,7 @@ used. For loops store the index in the loop variable on each iteration.
 
 
 Classes
-~~~~~~~
+-------
 
 By default, the body of a script file is an unnamed class and it can
 only be referenced externally as a resource or file. Class syntax is
